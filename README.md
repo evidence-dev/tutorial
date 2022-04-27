@@ -1,8 +1,15 @@
-# Evidence Template Project
+# Evidence Tutorial Project
 
-Thank you for checking out Evidence. This is the project template that you should use to get started. 
+Thank you for checking out Evidence. 
 
-## Getting Started
+This is the completed tutorial project, which may help if you get stuck in the tutorial. 
+You can access the tutorial [here](https://docs.evidence.dev/tutorial/what-well-build).
+
+This tutorial uses a dataset from Needful Things Inc, a fictional ecommmerce store.
+
+## Getting Started with Evidence
+
+If instead, you want to build your own evidence project, then:
 
 Check out the [documentation](https://docs.evidence.dev) for a complete walk through.
 
