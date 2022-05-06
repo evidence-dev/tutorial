@@ -7,7 +7,7 @@ You can access the tutorial [here](https://docs.evidence.dev/tutorial/what-well-
 
 This tutorial uses a dataset from Needful Things Inc, a fictional ecommmerce store.
 
-The finished site can be previewed [here](https://fabulous-hummingbird-56e2cb.netlify.app/).
+The finished site can be previewed [here](https://needful-things.netlify.app/).
 
 ## Getting Started with Evidence
 
