@@ -36,7 +36,6 @@ group by marketing_channel
 order by cpa
 ```
 
-## CPA by Channel
 {#each data.channel_cpa as channel}
 
 **{channel.marketing_channel} CPA was <Value value={channel.cpa} fmt=usd/>**, with a spend of <Value value={channel.total_spend} fmt=usd/>, bringing in <Value value={channel.total_orders}/> orders.
