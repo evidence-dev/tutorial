@@ -3,11 +3,11 @@
 Thank you for checking out Evidence. 
 
 This is the completed tutorial project, which may help if you get stuck in the tutorial. 
-You can access the tutorial [here](https://docs.evidence.dev/tutorial/what-well-build).
+You can access the tutorial [here](https://docs.evidence.dev/tutorial/introduction).
 
 This tutorial uses a dataset from Needful Things Inc, a fictional ecommmerce store.
 
-The finished site can be previewed [here](https://needful-things.netlify.app/).
+The finished site can be previewed [here](https://evidencetutorial.netlify.app/).
 
 ## Getting Started with Evidence
 
