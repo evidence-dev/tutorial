@@ -13,26 +13,26 @@ group by order_month
 order by order_month desc
 ```
 
-The most recent month of data began <Value data={data.monthly_orders} fmt=date/>, 
-when there were <Value data={data.monthly_orders} column=orders/> orders.
+The most recent month of data began <Value data={monthly_orders} fmt=date/>, 
+when there were <Value data={monthly_orders} column=orders/> orders.
 
 ## Monthly Sales
 <AreaChart 
-    data={data.monthly_orders} 
+    data={monthly_orders} 
     x=order_month
     y=sales_usd
 />
 
 ## Monthly Orders
 <LineChart 
-    data={data.monthly_orders} 
+    data={monthly_orders} 
     x=order_month
     y=orders
 />
 
 ## Basket Size
 <BarChart 
-    data={data.monthly_orders} 
+    data={monthly_orders} 
     x=order_month
     y=basket_size_usd
 />
