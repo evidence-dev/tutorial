@@ -15,7 +15,7 @@ order by orders
 ```
 
 <AreaChart
-    data={data.orders_by_channel}
+    data={orders_by_channel}
     x=order_month
     y=orders
     series=channel
@@ -36,7 +36,7 @@ group by marketing_channel
 order by cpa
 ```
 
-{#each data.channel_cpa as channel}
+{#each channel_cpa as channel}
 
 **{channel.marketing_channel} CPA was <Value value={channel.cpa} fmt=usd/>**, with a spend of <Value value={channel.total_spend} fmt=usd/>, bringing in <Value value={channel.total_orders}/> orders.
 

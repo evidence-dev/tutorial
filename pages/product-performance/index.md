@@ -7,7 +7,7 @@ from orders
 group by item
 ```
 
-{#each data.product_list as product}
+{#each product_list as product}
     
 [{product.item}](/product-performance/{product.item})
 
